@@ -1,6 +1,6 @@
 # Árvore Binária de Busca AVL
 
-  Nesta atividade tive como objetivo introduzir novas funções ao código base de uma árvore AVl disponibilizado pelo professor
+  Nesta atividade tive como objetivo introduzir novas funções ao código base de uma árvore AVL disponibilizado pelo professor.
 
 ### Funções Adicionadas:
 
